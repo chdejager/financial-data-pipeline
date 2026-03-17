@@ -5,12 +5,14 @@ This repository is designed to support research workflows that require structure
 
 ---
 ## Repository Structure
-'''
-finacial-data-pipeline/
+
+```
+financial_data_pipeline/
 
 finaeon/
-  Pipeline for symbol discovery and time-series scraping
-'''
+    Pipeline for symbol discovery and time-series collection
+
+```
 
 Additional data pipelines will be added over time
 
